@@ -1,8 +1,20 @@
 <!-- ===== HEADER ===== -->
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38B2AC,100:6366F1&height=200&section=header&text=Kohei%20Nakayama&fontSize=40&fontColor=ffffff" />
+</div>
 
-# 🌌 Kohei Nakayama  
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=800&color=38B2AC&center=true&vCenter=true&width=600&lines=Web+Developer;Ruby+on+Rails+Engineer;PWA+%C3%97+Web+Push;Docker+%2F+Render+%2F+NeonDB" />
+
+</div>
+
+<br> <!-- ← ここを追加して“余白”を付けたのが重要 -->
+
+<div align="center">
+
+## 🌌 Kohei Nakayama  
 ### Web Developer / Ruby on Rails / PWA × Web Push Engineer
 
 <img src="https://github.com/nakayamakouhei.png" width="140" style="border-radius: 50%;" />
