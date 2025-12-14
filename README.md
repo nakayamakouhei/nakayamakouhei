@@ -91,7 +91,6 @@ Railsを中心としたWebアプリ開発に取り組んでいます。
 
 ## 📫 Contact
 - **GitHub**: https://github.com/nakayamakouhei  
-- **X (Twitter)**: https://twitter.com/ （←あれば入れてください）
 
 ---
 
