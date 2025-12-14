@@ -71,8 +71,8 @@ UI/UX と安定運用を重視し、
 **Highlights**
 - Rails 7.2 / PostgreSQL / Tailwind  
 - Docker + Render + NeonDB 本番構成  
-- **PWA 対応（ホーム画面追加）**  
-- **Web Push 通知（VAPID + Service Worker）**  
+- PWA 対応（ホーム画面追加）  
+- Web Push 通知（VAPID + Service Worker）  
 - 月別統計可視化（Chartkick）  
 - Google OAuth ログイン  
 - カスタム銘柄作成機能  
