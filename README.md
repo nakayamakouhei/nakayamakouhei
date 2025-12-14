@@ -48,7 +48,7 @@ Railsを中心としたWebアプリ開発に取り組んでいます。
 ## 📦 Featured Projects
 
 ### 🌿 **Smoker Bank — 喫煙記録 × 可視化アプリ（Rails / PWA / Web Push）**
-**URL（本番環境）**: https://smoker-bank.onrender.com/  
+**URL（本番環境）**: https://smoker-bank.com/  
 **Repository**: https://github.com/nakayamakouhei/smoker-bank
 
 - Rails 7.2 / PostgreSQL / Tailwind CSS
