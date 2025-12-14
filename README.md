@@ -65,7 +65,7 @@ UI/UX と安定運用を重視し、
 ---
 
 ## 🌿 **Smoker Bank – 喫煙記録 × 可視化アプリ**  
-**Live**: https://smoker-bank.onrender.com/  
+**Live**: https://smoker-bank.com/  
 **Repo**: https://github.com/nakayamakouhei/smoker-bank  
 
 **Highlights**
@@ -112,7 +112,6 @@ UI/UX と安定運用を重視し、
 
 # 📫 Contact
 - **GitHub**: https://github.com/nakayamakouhei  
-- **Twitter(X)**: （あれば追記してください）
 
 ---
 
